@@ -1,0 +1,9 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "entryPoints": ["./lib/**"],
+  "out": "./docs",
+  "includeVersion": true,
+  "skipErrorChecking": true,
+  "excludePrivate": false,
+  "suppressCommentWarningsInDeclarationFiles": true
+}
